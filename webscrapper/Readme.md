@@ -1,0 +1,1 @@
+This project is the worker thread. This basically listens to a queue for the @Id column in MongoDB. Once it recevies an input, it fetches the record from DB, iterates over individual URLs and fetches the cost.
