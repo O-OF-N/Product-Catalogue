@@ -1,0 +1,5 @@
+spring:
+  profiles: development
+  data:
+    mongodb:
+      uri: mongodb://admin:test@ds062889.mlab.com:62889/product-tracker
